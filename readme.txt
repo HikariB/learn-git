@@ -6,3 +6,4 @@ master insert
 =======
 feat4 insert
 >>>>>>> feat4
+feat1 add new line
