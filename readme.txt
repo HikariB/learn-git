@@ -5,4 +5,4 @@ Git new
 master insert
 =======
 feat4 insert
->>>>>>> feat4
+m:del
